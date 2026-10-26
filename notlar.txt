@@ -3,3 +3,10 @@ cd - Calisma dizinini degistirir.
 mkdir - Yeni klasor olusturur.
 cat - Dosya icerigini terminalde gosterir.
 rm - Dosya veya klasor siler.
+
+Hafta 2 Git komutlari:
+git init - Yeni bir Git deposu baslatir.
+git status - Calisma alani ve staging durumunu gosterir.
+git add - Degisiklikleri staging alanina alir.
+git commit - Staged degisiklikleri kaydeder.
+git branch - Branch listesini gosterir.
