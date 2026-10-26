@@ -10,3 +10,4 @@ git status - Calisma alani ve staging durumunu gosterir.
 git add - Degisiklikleri staging alanina alir.
 git commit - Staged degisiklikleri kaydeder.
 git branch - Branch listesini gosterir.
+PR icin feature branch uzerinde ek not satiri.
