@@ -1,0 +1,5 @@
+﻿ls - Dosya ve klasorleri listeler.
+cd - Calisma dizinini degistirir.
+mkdir - Yeni klasor olusturur.
+cat - Dosya icerigini terminalde gosterir.
+rm - Dosya veya klasor siler.
