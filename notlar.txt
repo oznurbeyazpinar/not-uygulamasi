@@ -10,3 +10,5 @@ git status - Çalışma alanı ve staging durumunu gösterir.
 git add - Değişiklikleri staging alanına alır.
 git commit - Staged değişiklikleri kaydeder.
 git branch - Branch listesini gösterir.
+
+# Hafta 2 branch notu: git branch ve git merge komutları tekrar edildi.
