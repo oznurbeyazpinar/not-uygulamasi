@@ -3,3 +3,10 @@ cd - Çalışma dizinini değiştirir.
 mkdir - Yeni klasör oluşturur.
 cat - Dosya içeriğini terminalde gösterir.
 rm - Dosya veya klasör siler.
+
+Hafta 2 Git komutları:
+git init - Yeni bir Git deposu başlatır.
+git status - Çalışma alanı ve staging durumunu gösterir.
+git add - Değişiklikleri staging alanına alır.
+git commit - Staged değişiklikleri kaydeder.
+git branch - Branch listesini gösterir.
