@@ -1,0 +1,5 @@
+ls - Dosya ve klasörleri listeler.
+cd - Çalışma dizinini değiştirir.
+mkdir - Yeni klasör oluşturur.
+cat - Dosya içeriğini terminalde gösterir.
+rm - Dosya veya klasör siler.
